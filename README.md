@@ -4,9 +4,6 @@ Telegram bot, задающий вопросы по Python.
 ### Telegram bot: 
 t.me/etcqqb_bot (@etcqqb_bot)
 
-### API TOKEN: 
-7728523867:AAG9R_zx4qUBXB5FaFsvclIJ9ZHc75GzF6Y
-
 ---
 ### Команды бота:
 - **/start**: Начало взаимодействия / перезапуск викторины.
