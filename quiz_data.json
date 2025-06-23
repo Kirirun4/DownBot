@@ -1,0 +1,57 @@
+[
+	{
+		"question": "Что такое Python?",
+		"options": ["Язык программирования", "Тип данных", "Музыкальный инструмент", "Змея на английском"],
+		"correct_option": 0
+	},
+	{
+		"question": "Какой тип данных используется для хранения целых чисел?",
+		"options": ["int", "float", "str", "natural"],
+		"correct_option": 0
+	},
+    {
+        "question": "Какой оператор возвращает остаток от деления?",
+        "options": ["%", "/", "//", "*"],
+        "correct_option": 0
+    },
+    {
+        "question": "Что вернет выражение `[i for i in range(5)]`?",
+        "options": ["[0, 1, 2, 3, 4]", "[1, 2, 3, 4, 5]", "(0, 1, 2, 3, 4)", "{0, 1, 2, 3, 4}"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какая функция преобразует число в строку?",
+        "options": ["to_string()", "string()", "str()", "convert_to_str()"],
+        "correct_option": 2
+    },
+    {
+        "question": "Какие символы обозначают начало и конец многострочного комментария в Python?",
+        "options": ["/* */", "#", "\"\"\"", "<!-- -->"],
+        "correct_option": 2
+    },
+    {
+        "question": "Что выведет следующий код?\nprint('hello'.upper())",
+        "options": ["HELLO", "hello", "HellO", "hElLo"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какое исключение генерируется при попытке делить на ноль?",
+        "options": ["ZeroDivisionError", "ValueError", "TypeError", "IndexError"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой класс наследуется всеми объектами в Python?",
+        "options": ["Object", "BaseClass", "object", "Any"],
+        "correct_option": 2
+    },
+    {
+        "question": "Что вернет следующий код?\ndict(zip([1, 2, 3], ['a', 'b']))",
+        "options": ["{1: 'a', 2: 'b'}","{(1, 'a'), (2, 'b')}","['a', 'b']","{'a': 1, 'b': 2}"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой оператор используется для сравнения объектов по типу?",
+        "options": ["==", "is", "type()", "isinstance()"],
+        "correct_option": 3
+    }
+]
